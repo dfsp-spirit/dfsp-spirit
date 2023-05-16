@@ -3,4 +3,4 @@ Bioinformatician and currently Research Software Engineer at Fries Lab, ESI for 
 
 - 🔭 I’m working on [Syncopy](https://github.com/esi-neuroscience/syncopy), a Python package for large-scale electrophysiology data analysis.
 - 🌱 I’m currently learning Rust, Go and Neo4j.
-- :rocket: I enjoy using tools like Python, Jypyter, Rust, Julia, C++, and R to solve scientific problems, build high quality scientific software and promote open science.
+- :rocket: I enjoy using tools like Python, Jupyter, Rust, Julia, C++, and R to solve scientific problems, build high quality scientific software and promote open science.
